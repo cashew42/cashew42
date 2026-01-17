@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&color=9370DB&center=true&vCenter=true&width=500&height=80&lines=Hi,+I'm+cashew;Best+coder+ever;ofcourse" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&color=9370DB&center=true&vCenter=true&width=500&height=80&lines=Hi,+I'm+Cashew;Best+coder+ever;obviously" />
 </p>
 
 </details>
-
 <summary>Click to see something fun ✊😳✊</summary>
 
 <p align="center">
