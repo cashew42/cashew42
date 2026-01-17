@@ -5,7 +5,8 @@
 <details>
 <summary>Click to see something fun ✊😳✊</summary>
 
-<p align="center">  ![Fun GIF](https://giphy.com/gifs/pride-month-azFnGnU0ZuKkJp9egc)
+<p align="center">  
+![Fun GIF](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycGVzczhhY2JvNDJjOGZqdXM1amR3N3Z6c2t6NWhmMTlmZGR4MW1lMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/azFnGnU0ZuKkJp9egc/giphy.gif)
 </p>
 
 </details>
